@@ -33,7 +33,7 @@ $ git rename-branch new-name
 
 ## 作者
 
-Hozefa Jodiawalla笔下\<<mailto:hozefarules@gmail.com>>
+Hozefa Jodiawalla执笔\<<mailto:hozefarules@gmail.com>>
 
 ## 报告错误
 

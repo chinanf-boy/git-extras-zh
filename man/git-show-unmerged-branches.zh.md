@@ -17,7 +17,7 @@ $ git show-unmerged-branches
 
 ## 作者
 
-Paul Schreiber笔下\<<mailto:paulschreiber@gmail.com>>
+Paul Schreiber执笔\<<mailto:paulschreiber@gmail.com>>
 
 ## 报告错误
 

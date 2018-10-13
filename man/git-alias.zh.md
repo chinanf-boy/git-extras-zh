@@ -1,5 +1,5 @@
 
-# Git别名(1)——定义、搜索和显示别名
+# git-alias(1) —— 定义、搜索和显示别名
 
 ## 简介
 
@@ -40,7 +40,7 @@ $ git alias ^la
 last = cat-file commit HEAD
 ```
 
- `git-alias`如果不给出任何参数,将显示所有别名:
+`git-alias`如果不给出任何参数,将显示所有别名:
 
 ```
 $ git alias
@@ -53,7 +53,7 @@ whois = !sh -c 'git log -i -1 --pretty="format:%an <%ae>
 
 ## 作者
 
-Jonhnny Weslley笔下\<<mailto:jw@jonhnnyweslley.net>>
+Jonhnny Weslley执笔\<<mailto:jw@jonhnnyweslley.net>>
 
 ## 报告错误
 

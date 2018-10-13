@@ -19,7 +19,7 @@ config/database.yml
 
 ## 作者
 
-Kevin Woo笔下\<<mailto:kevinawoo@gmail.com>>
+Kevin Woo执笔\<<mailto:kevinawoo@gmail.com>>
 
 ## 报告错误
 

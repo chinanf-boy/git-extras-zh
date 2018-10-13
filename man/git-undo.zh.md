@@ -39,7 +39,7 @@ $ git undo 3
 
 ## 作者
 
-Kenneth Reitz笔下\<<mailto:me@kennethreitz.com>>Nick Lombard\<<mailto:github@jigsoft.co.za>>
+Kenneth Reitz执笔\<<mailto:me@kennethreitz.com>>Nick Lombard\<<mailto:github@jigsoft.co.za>>
 
 ## 报告错误
 

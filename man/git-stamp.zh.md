@@ -75,7 +75,7 @@ $ git stamp --replace issue BAR-123
 
 ## 作者
 
-Damien Tardy Panis笔下\<<mailto:damien@tardypad.me>>
+Damien Tardy Panis执笔\<<mailto:damien@tardypad.me>>
 
 ## 报告错误
 

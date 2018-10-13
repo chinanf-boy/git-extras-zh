@@ -23,7 +23,7 @@ $ git local-commits --graph
 
 ## 作者
 
-Michael Komitee笔下\<<mailto:mkomitee@gmail.com>>
+Michael Komitee执笔\<<mailto:mkomitee@gmail.com>>
 
 ## 报告错误
 

@@ -29,7 +29,7 @@ $ git sync origin master
 
 ## 作者
 
-Takuma Yamaguchi笔下\<<mailto:kumon0587@gmail.com>>
+Takuma Yamaguchi执笔\<<mailto:kumon0587@gmail.com>>
 
 ## 报告错误
 

@@ -23,7 +23,7 @@ $ git graft new_feature dev
 
 ## 作者
 
-Kenneth Reitz笔下\<<mailto:me@kennethreitz.com>>
+Kenneth Reitz执笔\<<mailto:me@kennethreitz.com>>
 
 ## 报告错误
 

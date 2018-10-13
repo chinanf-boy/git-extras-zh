@@ -73,7 +73,7 @@
 
 ## 作者
 
-Tj Holowaychuk笔下\<<mailto:tj@vision-media.ca>>David Hartmann延伸\<<mailto:dh@tsl.io>>
+Tj Holowaychuk执笔\<<mailto:tj@vision-media.ca>>David Hartmann延伸\<<mailto:dh@tsl.io>>
 
 ## 报告错误
 

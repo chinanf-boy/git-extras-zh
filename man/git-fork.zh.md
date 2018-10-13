@@ -56,7 +56,7 @@ $ git fork
 
 ## 作者
 
-Andrew Griffiths笔下\<<mailto:mail@andrewgriffithsonline.com>>
+Andrew Griffiths执笔\<<mailto:mail@andrewgriffithsonline.com>>
 
 ## 报告错误
 

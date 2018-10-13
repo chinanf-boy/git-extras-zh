@@ -1,5 +1,5 @@
 
-# Git存档文件(1)——将Git存储库的当前头导出到存档
+# git-archive-file(1)——将Git存储库的当前HEAD导为zip压缩包
 
 ## 简介
 
@@ -7,7 +7,7 @@
 
 ## 描述
 
-将存储库的当前头导出为具有可识别和唯一名称的存档.
+将存储库的当前HEAD导出为，具有可识别和唯一名称的存档.
 
 ## 选项
 
@@ -21,11 +21,11 @@
 
 主分支:`git-extras.1.7.0-110-gafefba7.zip`
 
-在分离的头上(例如标签):`git-extras.1.7.0.zip`
+在独立HEAD上(例如标签):`git-extras.1.7.0.zip`
 
 ## 作者
 
-Philipp Klose笔下\<<mailto:me@thehippo.de>>
+Philipp Klose执笔\<<mailto:me@thehippo.de>>
 
 ## 报告错误
 

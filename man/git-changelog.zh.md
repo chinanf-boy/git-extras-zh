@@ -108,7 +108,7 @@
 
 ## 作者
 
-Mark Eissler笔下\<<mailto:mark@mixtur.com>>
+Mark Eissler执笔\<<mailto:mark@mixtur.com>>
 
 ## 报告错误
 

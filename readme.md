@@ -14,7 +14,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'tj/git-extras' -->
@@ -30,75 +30,11 @@
 
 <!-- doc-templite END generated -->
 
-- [x] [命令](Commands.zh.md) 
-- [ ] [`man/readme`](./man/readme.zh.md)
-- [ ] [`git alias`](./man/git-alias.zh.md)
-- [ ] [`git archive-file`](./man/git-archive-file.zh.md)
-- [ ] [`git authors`](./man/git-authors.zh.md)
-- [ ] [`git back`](./man/git-back.zh.md)
-- [ ] [`git bug`](./man/git-featurerefactorbugchore.zh.md)
-- [ ] [`git bulk`](./man/git-bulk.zh.md)
-- [ ] [`git changelog`](./man/git-changelog.zh.md)
-- [ ] [`git chore`](./man/git-featurerefactorbugchore.zh.md)
-- [ ] [`git clear`](./man/git-clear.zh.md)
-- [ ] [`git clear-soft`](./man/git-clear-soft.zh.md)
-- [ ] [`git commits-since`](./man/git-commits-since.zh.md)
-- [ ] [`git contrib`](./man/git-contrib.zh.md)
-- [ ] [`git count`](./man/git-count.zh.md)
-- [ ] [`git create-branch`](./man/git-create-branch.zh.md)
-- [ ] [`git delete-branch`](./man/git-delete-branch.zh.md)
-- [ ] [`git delete-merged-branches`](./man/git-delete-merged-branches.zh.md)
-- [ ] [`git delete-submodule`](./man/git-delete-submodule.zh.md)
-- [ ] [`git delete-tag`](./man/git-delete-tag.zh.md)
-- [ ] [`git delta`](./man/git-delta.zh.md)
-- [ ] [`git effort`](./man/git-effort.zh.md)
-- [ ] [`git extras`](./man/git-extras.zh.md)
-- [ ] [`git feature`](./man/git-featurerefactorbugchore.zh.md)
-- [ ] [`git force-clone`](./man/git-force-clone.zh.md)
-- [ ] [`git fork`](./man/git-fork.zh.md)
-- [ ] [`git fresh-branch`](./man/git-fresh-branch.zh.md)
-- [ ] [`git gh-pages`](./man/git-gh-pages.zh.md)
-- [ ] [`git graft`](./man/git-graft.zh.md)
-- [ ] [`git guilt`](./man/git-guilt.zh.md)
-- [ ] [`git ignore`](./man/git-ignore.zh.md)
-- [ ] [`git ignore-io`](./man/git-ignore-io.zh.md)
-- [ ] [`git info`](./man/git-info.zh.md)
-- [ ] [`git line-summary`](./man/git-line-summary.zh.md)
-- [ ] [`git local-commits`](./man/git-local-commits.zh.md)
-- [ ] [`git lock`](./man/git-lock.zh.md)
-- [ ] [`git locked`](./man/git-locked.zh.md)
-- [ ] [`git merge-into`](./man/git-merge-into.zh.md)
-- [ ] [`git merge-repo`](./man/git-merge-repo.zh.md)
-- [ ] [`git missing`](./man/git-missing.zh.md)
-- [ ] [`git mr`](./man/git-mr.zh.md)
-- [ ] [`git obliterate`](./man/git-obliterate.zh.md)
-- [ ] [`git pr`](./man/git-pr.zh.md)
-- [ ] [`git psykorebase`](./man/git-psykorebase.zh.md)
-- [ ] [`git pull-request`](./man/git-pull-request.zh.md)
-- [ ] [`git reauthor`](./man/git-reauthor.zh.md)
-- [ ] [`git rebase-patch`](./man/git-rebase-patch.zh.md)
-- [ ] [`git refactor`](./man/git-featurerefactorbugchore.zh.md)
-- [ ] [`git release`](./man/git-release.zh.md)
-- [ ] [`git rename-branch`](./man/git-rename-branch.zh.md)
-- [ ] [`git rename-tag`](./man/git-rename-tag.zh.md)
-- [ ] [`git repl`](./man/git-repl.zh.md)
-- [ ] [`git reset-file`](./man/git-reset-file.zh.md)
-- [ ] [`git root`](./man/git-root.zh.md)
-- [ ] [`git rscp`](./man/git-scp.zh.md)
-- [ ] [`git scp`](./man/git-scp.zh.md)
-- [ ] [`git sed`](./man/git-sed.zh.md)
-- [ ] [`git setup`](./man/git-setup.zh.md)
-- [ ] [`git show-merged-branches`](./man/git-show-merged-branches.zh.md)
-- [ ] [`git show-tree`](./man/git-show-tree.zh.md)
-- [ ] [`git show-unmerged-branches`](./man/git-show-unmerged-branches.zh.md)
-- [ ] [`git stamp`](./man/git-stamp.zh.md)
-- [ ] [`git squash`](./man/git-squash.zh.md)
-- [ ] [`git standup`](./man/git-standup.zh.md)
-- [ ] [`git summary`](./man/git-summary.zh.md)
-- [ ] [`git sync`](./man/git-sync.zh.md)
-- [ ] [`git touch`](./man/git-touch.zh.md)
-- [ ] [`git undo`](./man/git-undo.zh.md)
-- [ ] [`git unlock`](./man/git-unlock.zh.md)
+- [x] [命令列表](Commands.zh.md) 
+- [x] [`man/readme`](./man/readme.zh.md)
+~~- [ ] [`man/**`]~~
+
+> 哪些子命令的**man**页表，没有好翻译的，**命令列表**就可以阐述命令的使用了, 最多加了点 作者信息。 有需求的， Fork 给自己玩玩
 
 ### 贡献
 

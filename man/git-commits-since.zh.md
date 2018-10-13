@@ -41,7 +41,7 @@ TJ Holowaychuk - Merge pull request #129 from nickl-/develop
 
 ## 作者
 
-Tj Holowaychuk笔下\<<mailto:tj@vision-media.ca>>
+Tj Holowaychuk执笔\<<mailto:tj@vision-media.ca>>
 
 ## 报告错误
 

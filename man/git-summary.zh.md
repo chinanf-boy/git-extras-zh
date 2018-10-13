@@ -60,7 +60,7 @@ $ git summary v42..
 
 ## 作者
 
-Tj Holowaychuk笔下\<<mailto:tj@vision-media.ca>>
+Tj Holowaychuk执笔\<<mailto:tj@vision-media.ca>>
 
 ## 报告错误
 

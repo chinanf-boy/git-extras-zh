@@ -21,7 +21,7 @@ $Git触摸生成文件
 
 ## 作者
 
-Alex McHale笔下\<<mailto:alexmchale@gmail.com>>
+Alex McHale执笔\<<mailto:alexmchale@gmail.com>>
 
 ## 报告错误
 

@@ -27,7 +27,7 @@ $ git merge-repo git@github.com:tj/git-extras.git master .
 
 ## 作者
 
-Ivan Malopinsky笔下\<<mailto:hello@imsky.co>>
+Ivan Malopinsky执笔\<<mailto:hello@imsky.co>>
 
 ## 报告错误
 

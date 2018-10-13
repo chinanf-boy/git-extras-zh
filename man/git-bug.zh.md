@@ -1,9 +1,9 @@
 
-# Git bug(1)——创建bug分支
+# git-bug(1)——创建bug分支
 
 ## 简介
 
-`git-bug` [- R -远程\[远程名称\]][finish] \<名称>
+`git-bug` **[-r|--remote [remote_name]] [finish] &lt;name&gt;**
 
 ## 描述
 
@@ -11,17 +11,15 @@
 
 ## 选项
 
-  \<- R -远程[远程名称_]>
+\<-r|--remote [remote_name]>
 
-使用远程跟踪分支设置`remote_name`. 如果`remote_name`未提供,使用`origin`默认情况下.
+使用远程跟踪分支设置`remote_name`. 如果`remote_name`未提供,默认情况下使用`origin`.
 
-  \<完成>
+\<finish>
 
 合并并删除bug分支.
 
-  \<-r
-
-  \<名称>
+\<name>
 
 错误分支的名称.
 
@@ -40,7 +38,7 @@ $ git bug -r 12345
 
 ## 作者
 
-杰斯的《埃斯皮诺》\<<mailto:jespinog@gmail.com>>\
+Jesús Espino执笔\<<mailto:jespinog@gmail.com>>\
 Mark Pitman修正\<<mailto:mark.pitman@gmail.com>>
 
 ## 报告错误

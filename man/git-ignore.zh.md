@@ -125,7 +125,7 @@ index.tmp
 
 ## 作者
 
-Tj Holowaychuk笔下\<<mailto:tj@vision-media.ca>>Tema Bolshakov\<<mailto:tweekane@gmail.com>>Nick Lombard\<<mailto:github@jigsoft.co.za>>
+Tj Holowaychuk执笔\<<mailto:tj@vision-media.ca>>Tema Bolshakov\<<mailto:tweekane@gmail.com>>Nick Lombard\<<mailto:github@jigsoft.co.za>>
 
 ## 报告错误
 

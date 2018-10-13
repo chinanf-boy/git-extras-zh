@@ -21,7 +21,7 @@ $ git delete-submodule lib/foo
 
 ## 作者
 
-Jonhnny Weslley笔下\<<mailto:jw@jonhnnyweslley.net>>
+Jonhnny Weslley执笔\<<mailto:jw@jonhnnyweslley.net>>
 
 ## 报告错误
 

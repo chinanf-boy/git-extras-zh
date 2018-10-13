@@ -38,7 +38,7 @@ $ git chore -r upstream 123456
 
 ## 作者
 
-Chris Hall笔下\<<mailto:christopher.k.hall@gmail.com>>由JES埃斯皮诺编写的bug /特征/重构命令\<<mailto:jespinog@gmail.com>>\
+Chris Hall执笔\<<mailto:christopher.k.hall@gmail.com>>由JES埃斯皮诺编写的bug /特征/重构命令\<<mailto:jespinog@gmail.com>>\
 Mark Pitman修正\<<mailto:mark.pitman@gmail.com>>
 
 ## 报告错误

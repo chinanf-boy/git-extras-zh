@@ -23,7 +23,7 @@ $ git unlock config/database.yml
 
 ## 作者
 
-Julio Napuri笔下\<<mailto:julionc@gmail.com>>
+Julio Napuri执笔\<<mailto:julionc@gmail.com>>
 
 ## 报告错误
 

@@ -25,7 +25,7 @@ $ git delta example D
 
 ## 作者
 
-Ivan Malopinsky笔下\<<mailto:hello@imsky.co>>
+Ivan Malopinsky执笔\<<mailto:hello@imsky.co>>
 
 ## 报告错误
 

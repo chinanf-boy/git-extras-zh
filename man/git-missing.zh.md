@@ -43,7 +43,7 @@ $ git missing foo bar
 
 ## 作者
 
-Nate Jones笔下\<<mailto:nate@endot.org>>
+Nate Jones执笔\<<mailto:nate@endot.org>>
 
 ## 报告错误
 

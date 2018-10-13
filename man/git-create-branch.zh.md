@@ -35,7 +35,7 @@ $ git create-branch -r upstream integration
 
 ## 作者
 
-Jonhnny Weslley笔下\<<mailto:jw@jonhnnyweslley.net>>\
+Jonhnny Weslley执笔\<<mailto:jw@jonhnnyweslley.net>>\
 Mark Pitman修正\<<mailto:mark.pitman@gmail.com>>
 
 ## 报告错误

@@ -105,7 +105,7 @@ done;
 
 ## 作者
 
-Chern Jie笔下\<<mailto:lim@chernjie.com>>
+Chern Jie执笔\<<mailto:lim@chernjie.com>>
 
 ## 报告错误
 

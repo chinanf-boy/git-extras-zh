@@ -35,7 +35,7 @@ $ git reset-file .htaccess dc82b19
 
 ## 作者
 
-Sasha Khamkov笔下\<<mailto:sanusart@gmail.com>>
+Sasha Khamkov执笔\<<mailto:sanusart@gmail.com>>
 
 ## 报告错误
 

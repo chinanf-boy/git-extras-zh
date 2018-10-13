@@ -23,7 +23,7 @@ $ git setup path/to/repository
 
 ## 作者
 
-Aggelos Orfanakos笔下\<<mailto:agorf@agorf.gr>>
+Aggelos Orfanakos执笔\<<mailto:agorf@agorf.gr>>
 
 ## 报告错误
 

@@ -1,9 +1,17 @@
 
-# Git批量(1)——在多个存储库上运行Git命令
+# git-bulk(1)——在多个存储库上运行Git命令
 
 ## 简介
 
-用法:用法:[-g]\([-a]γ[-w &lt;WS名称-])\<GIT命令>git块——AdWorkWorkStudio\<WS名称> \<WS根目录>Git批量-删除工作空间\<WS名称>Git批量-附加电流\<WS名称>Git批量-清除Git批量-列表
+用法: git bulk **[-g] ([-a]|[-w &lt;ws-name&gt;])**
+
+```
+       git bulk --addworkspace &lt;ws-name&gt; &lt;ws-root-directory&gt;
+       git bulk --removeworkspace &lt;ws-name&gt;
+       git bulk --addcurrent &lt;ws-name&gt;
+       git bulk --purge
+       git bulk --listall
+```
 
 ## 描述
 
@@ -89,7 +97,7 @@ $ git bulk --purge
 
 ## 作者
 
-Niklas Schlimm笔下\<<mailto:ns103@hotmail.de>>
+Niklas Schlimm执笔\<<mailto:ns103@hotmail.de>>
 
 ## 报告错误
 

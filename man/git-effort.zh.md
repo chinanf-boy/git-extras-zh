@@ -88,7 +88,7 @@ $GIT努力-大师…
 
 ## 作者
 
-Leila Muhtasib笔下\<<mailto:muhtasib@gmail.com>>
+Leila Muhtasib执笔\<<mailto:muhtasib@gmail.com>>
 
 ## 报告错误
 

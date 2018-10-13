@@ -107,7 +107,7 @@ authors  :
 
 ## 作者
 
-Newell Zhu笔下\<<mailto:zlx.star@gmail.com>>
+Newell Zhu执笔\<<mailto:zlx.star@gmail.com>>
 
 ## 报告错误
 
