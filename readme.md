@@ -30,7 +30,7 @@
 
 <!-- doc-templite END generated -->
 
-- [ ] [命令](Commands.zh.md)
+- [x] [命令](Commands.zh.md) 
 - [ ] [`man/readme`](./man/readme.zh.md)
 - [ ] [`git alias`](./man/git-alias.zh.md)
 - [ ] [`git archive-file`](./man/git-archive-file.zh.md)
