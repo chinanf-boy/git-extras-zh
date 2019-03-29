@@ -20,10 +20,9 @@
 <!-- repo = 'tj/git-extras' -->
 <!-- commit = '8b992cc9bc46331bbe56627400d85074abb1bf6b' -->
 <!-- time = '2018-09-13' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-09-13 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-09-13 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/tj/git-extras.svg
 [commit]: https://github.com/tj/git-extras/tree/8b992cc9bc46331bbe56627400d85074abb1bf6b
@@ -42,7 +41,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
